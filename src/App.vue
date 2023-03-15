@@ -8,6 +8,18 @@
   </div>
 </template>
 
+<script>
+  export default {
+
+    // created(){
+    //   this.$http.get('/').then((response) => {
+    //     console.log(response)
+    //   })
+    // }
+
+  }
+</script>
+
 <style>
 #app {
   font-family: Avenir, Helvetica, Arial, sans-serif;
